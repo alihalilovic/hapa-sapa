@@ -161,7 +161,7 @@ nav {
 .container {
   display: flex;
   justify-content: center;
-  width: 70%;
+  width: 80%;
   margin: auto;
 }
 
